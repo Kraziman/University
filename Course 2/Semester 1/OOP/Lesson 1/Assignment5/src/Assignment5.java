@@ -1,4 +1,4 @@
-public class Assingment5 {
+public class Assignment5 {
     public static void main(String[] args) {
         int numLim = 300;
         for (int i = 0; i < numLim; i ++){

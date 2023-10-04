@@ -1,4 +1,4 @@
-public class Assingment4{
+public class Assignment4 {
     public static void main(String[]args){
         String finalWord, firstTwoNum, firstLet, secondLet;
         for(int i = 0; i < 99; i++){

@@ -1,4 +1,4 @@
-public class Assingmnet1 {
+public class Assignment1 {
     public static void main(String[]args){
         for (int i = 0; i <= 300; i++){
             if (i % 2 == 1) {
