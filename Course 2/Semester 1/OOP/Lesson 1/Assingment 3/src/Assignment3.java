@@ -1,4 +1,4 @@
-public class main{
+public class Assignment3{
     public static void main(String[]args){
         double fullAmmount = 10000;
         double night = fullAmmount * 0.5;
