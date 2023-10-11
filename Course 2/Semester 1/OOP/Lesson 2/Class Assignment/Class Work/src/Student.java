@@ -1,13 +1,11 @@
 public class Student {
-    String firstName;
-    String lastName;
-    String fNumber;
+    String firstName, lastName, fNumber;
 
     // Default constructor
     public Student() {
 
     }
-    Student(String firstName, String lastName, String fNumber){
+    public Student(String firstName, String lastName, String fNumber){
         this.firstName = firstName;
         this.lastName = lastName;
         this.fNumber = fNumber;
